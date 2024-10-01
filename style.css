@@ -1,0 +1,131 @@
+.mainbody{
+  background: linear-gradient(to left,skyblue,lightgreen);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1{
+    color: black;
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+}
+.heading{
+    color: black;
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    color: black;
+    font-family: "Gowun Batang", serif;
+    font-weight: 400;
+    font-style: normal;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 15px;
+    padding: 5px;
+}
+.box1{
+    border: 1px solid;
+    height: 50px;
+    width: 200px;
+    background-color: plum;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.box2{
+    font-size: 40px;
+    border: 5px solid;
+    height: 300px;
+    width: 300px;
+    background-color: cadetblue;
+}
+#box2-1{
+position: relative;
+left: 100px;
+}
+#box2-2{
+position: absolute;
+left: 350px;
+top: -5px;
+}
+#box2-3{
+position: absolute;
+left: 350px;
+top: -5px;
+}
+#box2-4{
+position: relative;
+top: 45px;
+left: 100px;
+}
+#box2-5{
+position: absolute;
+left: 350px;
+top: -5px;
+}
+#box2-6{
+position: absolute;
+left: 350px;
+top: -5px;
+}
+.body2{
+    background-image: url(background.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.box3{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 40%;
+}
+.par{
+    width: 30%;
+}
+.body3{
+    background: linear-gradient(dodgerblue, yellowgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.button1{
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
+    background-color: steelblue;
+    position: absolute;
+    left: 25%;
+    top: 70%;
+}
+.button2{
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
+    background-color: steelblue;
+    position: absolute;
+    left: 55%;
+    top: 70%;
+}
+.box4{
+    font-size: 40px;
+    border: 5px solid;
+    height: 200px;
+    width: 450px;
+    background-color: cadetblue;
+    position: relative;
+    left: 15%;
+    top: 300px;
+}
+#contact{
+    height: 200px;
+    position: absolute;
+    left: 500px;
+    top: -5px;
+}
